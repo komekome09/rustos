@@ -1,0 +1,6 @@
+[package]
+name = "os"
+version = "0.1.0"
+authors = ["komekome09 <fanmaskome@gmail.com>"]
+
+[dependencies]
